@@ -6,4 +6,7 @@
 ##### Header size 6
 
 
-Learned how to add headers to a markdown file
+# Learning how to add image to the markdown file
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+
