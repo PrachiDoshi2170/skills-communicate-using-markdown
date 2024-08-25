@@ -14,4 +14,10 @@
 print("Hello World!")
 ```
 
+# Learning how to add tasklist to the markdown file
+- [ ] Complete the assignmets
+- [x] Successfully complete the lab
+- [ ] Go soon !!!! There is a yard sale
+
+
 
